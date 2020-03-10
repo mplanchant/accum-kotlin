@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mplanchant/accum-kotlin.svg?branch=master)](https://travis-ci.com/mplanchant/accum-kotlin)
+
 The examples below show you how to write function `accum`:
 
 Examples:
